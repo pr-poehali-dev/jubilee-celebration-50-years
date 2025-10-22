@@ -19,10 +19,12 @@ const timelineData: TimelineEvent[] = [
   { year: 1998, category: 'family', title: 'Рождение первого ребёнка', description: 'Новая роль - родитель', icon: 'Users' },
   { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
   { year: 2002, category: 'family', title: 'Рождение второго ребёнка', description: 'Семья стала ещё больше', icon: 'HeartHandshake' },
+  { year: 2004, category: 'family', title: 'Рождение третьего ребёнка', description: 'Семья продолжает расти', icon: 'Users' },
   { year: 2005, category: 'hobby', title: 'Новое хобби', description: 'Открытие страсти к творчеству', icon: 'Palette' },
   { year: 2010, category: 'achievement', title: 'Значимое достижение', description: 'Важная веха в жизни', icon: 'Award' },
   { year: 2015, category: 'family', title: 'Семейное событие', description: 'Рост семьи', icon: 'Home' },
   { year: 2020, category: 'career', title: 'Профессиональный успех', description: 'Признание заслуг', icon: 'Trophy' },
+  { year: 2024, category: 'family', title: 'Свадьба сына', description: 'Семья растёт, новое поколение', icon: 'Rings' },
   { year: 2025, category: 'achievement', title: 'Юбилей - 50 лет!', description: 'Полувековой рубеж', icon: 'PartyPopper' },
 ];
 
