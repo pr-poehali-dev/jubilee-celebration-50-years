@@ -16,6 +16,7 @@ const timelineData: TimelineEvent[] = [
   { year: 1981, category: 'childhood', title: 'Первый класс', description: '01.09.1981 - Начало школьной жизни в МБОУ ООШ № 16 имени ветерана ВОВ П.И. Животовского', icon: 'School' },
   { year: 1990, category: 'youth', title: 'Юность', description: 'Ходили на речку Кубань, ловили сомов и сазанов, сачком ловили бабочек', icon: 'Sparkles' },
   { year: 1991, category: 'youth', title: 'Окончание школы', description: '25.05.1991 - Окончил 11 класс', icon: 'GraduationCap' },
+  { year: 1991, category: 'family', title: 'Первая любовь', description: 'Приглянулась девочка Маша, с которой были знакомы с детства', icon: 'HeartHandshake' },
   { year: 1995, category: 'family', title: 'Свадьба', description: 'Создание семьи', icon: 'Heart' },
   { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: 'Новая роль - родитель', icon: 'Users' },
   { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
