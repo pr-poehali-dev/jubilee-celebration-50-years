@@ -22,7 +22,7 @@ const timelineData: TimelineEvent[] = [
   { year: 1996, category: 'family', title: 'Строительство дома', description: '07.07.1996 - Начинаем строить наш домик', icon: 'Home' },
   { year: 1997, category: 'family', title: 'Радостная весть', description: 'Апрель 1997 - Самый счастливый месяц, узнаю о том, что у нас будет ребенок', icon: 'Baby' },
   { year: 1997, category: 'family', title: 'Узнали пол ребенка', description: 'Через некоторое время узнаем, что это будет сын', icon: 'HeartHandshake' },
-  { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: '15.01.1998 - Родился наш Андрюша', icon: 'Users' },
+  { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: '15.01.1998 - Родился наш Андрюша, долгожданный подарок на новогодние праздники', icon: 'Users' },
   { year: 2002, category: 'family', title: 'Достроили дом', description: '28.12.2002 - Сбылась наша мечта, достроили наш дом. Самый лучший подарок под новый год', icon: 'Home' },
   { year: 2003, category: 'family', title: 'Ждём второго ребёнка', description: 'Июнь 2003 - Узнали о том, что будет ребёнок', icon: 'Baby' },
   { year: 2003, category: 'family', title: 'Узнали пол', description: 'Позже узнали, что это будет девочка', icon: 'HeartHandshake' },
