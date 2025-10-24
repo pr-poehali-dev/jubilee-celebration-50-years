@@ -13,8 +13,9 @@ interface TimelineEvent {
 
 const timelineData: TimelineEvent[] = [
   { year: 1975, category: 'childhood', title: 'Рождение', description: '07.11.1975 - Начало удивительного пути', icon: 'Baby' },
-  { year: 1982, category: 'childhood', title: 'Первый класс', description: 'Начало школьной жизни', icon: 'School' },
+  { year: 1981, category: 'childhood', title: 'Первый класс', description: '01.09.1981 - Начало школьной жизни', icon: 'School' },
   { year: 1990, category: 'youth', title: 'Юность', description: 'Годы становления личности', icon: 'Sparkles' },
+  { year: 1991, category: 'youth', title: 'Окончание школы', description: '25.05.1991 - Окончил 11 класс', icon: 'GraduationCap' },
   { year: 1995, category: 'family', title: 'Свадьба', description: 'Создание семьи', icon: 'Heart' },
   { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: 'Новая роль - родитель', icon: 'Users' },
   { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
