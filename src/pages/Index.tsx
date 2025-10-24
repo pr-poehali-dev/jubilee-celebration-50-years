@@ -27,12 +27,9 @@ const timelineData: TimelineEvent[] = [
   { year: 2003, category: 'family', title: 'Ждём второго ребёнка', description: 'Июнь 2003 - Узнали о том, что будет ребёнок', icon: 'Baby' },
   { year: 2003, category: 'family', title: 'Узнали пол', description: 'Позже узнали, что это будет девочка', icon: 'HeartHandshake' },
   { year: 2004, category: 'family', title: 'Рождение дочки Ириши', description: '02.03.2004 - Дочь сделала прекрасный подарок на 8 марта маме и появилась на свет', icon: 'HeartHandshake' },
-  { year: 2005, category: 'hobby', title: 'Новое хобби', description: 'Открытие страсти к творчеству', icon: 'Palette' },
-  { year: 2010, category: 'achievement', title: 'Значимое достижение', description: 'Важная веха в жизни', icon: 'Award' },
-  { year: 2015, category: 'family', title: 'Семейное событие', description: 'Рост семьи', icon: 'Home' },
-  { year: 2020, category: 'career', title: 'Профессиональный успех', description: 'Признание заслуг', icon: 'Trophy' },
-  { year: 2024, category: 'family', title: 'Свадьба сына', description: 'Семья растёт, новое поколение', icon: 'Rings' },
-  { year: 2025, category: 'achievement', title: 'Юбилей - 50 лет!', description: 'Полувековой рубеж', icon: 'PartyPopper' },
+  { year: 2020, category: 'career', title: 'Успешное ведение фермерства', description: 'Профессиональные достижения в сельском хозяйстве', icon: 'Trophy' },
+  { year: 2024, category: 'family', title: 'Свадьба сына', description: '12.10.2024 - Свадьба сына, семья растёт, новое поколение', icon: 'Rings' },
+  { year: 2025, category: 'achievement', title: 'Юбилей - 50 лет!', description: 'Директор птицефабрики и соучередитель агропромышленности, замечательный сын, муж, самый лучший отец для своих сына и дочери, а еще прекрасный свекр', icon: 'PartyPopper' },
 ];
 
 const categories = {
