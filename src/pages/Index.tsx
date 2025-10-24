@@ -26,7 +26,7 @@ const timelineData: TimelineEvent[] = [
   { year: 2002, category: 'family', title: 'Достроили дом', description: '28.12.2002 - Сбылась наша мечта, достроили наш дом. Самый лучший подарок под новый год', icon: 'Home' },
   { year: 2003, category: 'family', title: 'Ждём второго ребёнка', description: 'Июнь 2003 - Узнали о том, что будет ребёнок', icon: 'Baby' },
   { year: 2003, category: 'family', title: 'Узнали пол', description: 'Позже узнали, что это будет девочка', icon: 'HeartHandshake' },
-  { year: 2004, category: 'family', title: 'Рождение дочки Ириши', description: 'Семья стала ещё больше', icon: 'HeartHandshake' },
+  { year: 2004, category: 'family', title: 'Рождение дочки Ириши', description: '02.03.2004 - Дочь сделала прекрасный подарок на 8 марта маме и появилась на свет', icon: 'HeartHandshake' },
   { year: 2005, category: 'hobby', title: 'Новое хобби', description: 'Открытие страсти к творчеству', icon: 'Palette' },
   { year: 2010, category: 'achievement', title: 'Значимое достижение', description: 'Важная веха в жизни', icon: 'Award' },
   { year: 2015, category: 'family', title: 'Семейное событие', description: 'Рост семьи', icon: 'Home' },
