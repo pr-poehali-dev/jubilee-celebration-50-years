@@ -23,7 +23,6 @@ const timelineData: TimelineEvent[] = [
   { year: 1997, category: 'family', title: 'Радостная весть', description: 'Апрель 1997 - Самый счастливый месяц, узнаю о том, что у нас будет ребенок', icon: 'Baby' },
   { year: 1997, category: 'family', title: 'Узнали пол ребенка', description: 'Через некоторое время узнаем, что это будет сын', icon: 'HeartHandshake' },
   { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: '15.01.1998 - Родился наш Андрюша', icon: 'Users' },
-  { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
   { year: 2004, category: 'family', title: 'Рождение дочки Ириши', description: 'Семья стала ещё больше', icon: 'HeartHandshake' },
   { year: 2005, category: 'hobby', title: 'Новое хобби', description: 'Открытие страсти к творчеству', icon: 'Palette' },
   { year: 2010, category: 'achievement', title: 'Значимое достижение', description: 'Важная веха в жизни', icon: 'Award' },
