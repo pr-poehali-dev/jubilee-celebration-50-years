@@ -17,7 +17,7 @@ const timelineData: TimelineEvent[] = [
   { year: 1990, category: 'youth', title: 'Юность', description: 'Ходили на речку Кубань, ловили сомов и сазанов, сачком ловили бабочек', icon: 'Sparkles' },
   { year: 1991, category: 'youth', title: 'Окончание школы', description: '25.05.1991 - Окончил 11 класс', icon: 'GraduationCap' },
   { year: 1991, category: 'family', title: 'Первая любовь', description: 'Приглянулась девочка Маша, с которой были знакомы с детства', icon: 'HeartHandshake' },
-  { year: 1991, category: 'youth', title: 'СПТУ № 52', description: '01.09.1991-01.06.1995 - Прекрасные студенческие годы: ходили на дискотеки, пили газировку с автоматов, ездили на практики и участвовали в стройотрядах', icon: 'School' },
+  { year: 1991, category: 'youth', title: 'СПТУ № 52', description: '01.09.1991-01.06.1995 - Прекрасные студенческие годы: ходили на дискотеки, пили газировку с автоматов, ездили на практики и участвовали в стройотрядах. Получил водительские права', icon: 'School' },
   { year: 1995, category: 'family', title: 'Свадьба', description: 'Создание семьи', icon: 'Heart' },
   { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: 'Новая роль - родитель', icon: 'Users' },
   { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
