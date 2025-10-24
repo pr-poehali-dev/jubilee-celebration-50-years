@@ -19,6 +19,7 @@ const timelineData: TimelineEvent[] = [
   { year: 1991, category: 'family', title: 'Первая любовь', description: 'Приглянулась девочка Маша, с которой были знакомы с детства', icon: 'HeartHandshake' },
   { year: 1991, category: 'youth', title: 'СПТУ № 52', description: '01.09.1991-01.06.1995 - Прекрасные студенческие годы: ходили на дискотеки, пили газировку с автоматов, ездили на практики и участвовали в стройотрядах. Получил водительские права', icon: 'School' },
   { year: 1996, category: 'family', title: 'Свадьба', description: '06.07.1996 - Сыграли свадьбу с той самой озорной девчонкой с прекрасной улыбкой Машей', icon: 'Heart' },
+  { year: 1996, category: 'family', title: 'Строительство дома', description: '07.07.1996 - Начинаем строить наш домик', icon: 'Home' },
   { year: 1998, category: 'family', title: 'Рождение сына Андрюши', description: 'Новая роль - родитель', icon: 'Users' },
   { year: 2000, category: 'career', title: 'Карьерный рост', description: 'Важное продвижение по службе', icon: 'Briefcase' },
   { year: 2004, category: 'family', title: 'Рождение дочки Ириши', description: 'Семья стала ещё больше', icon: 'HeartHandshake' },
